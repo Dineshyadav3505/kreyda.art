@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+*{
+    color: #fff;
+    font-family: 'Manrope' ;
+    .heading{
+        font-family: 'Thunder';
+    }
+}
